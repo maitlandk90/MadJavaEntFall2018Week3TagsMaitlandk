@@ -1,0 +1,14 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Time of Day Tag</short-name>
+
+    <uri>htt://matc.edu/timdofdaytag</uri>
+
+    <tag>
+        <name>TimeOfDay</name>
+        <tag-class>edu.matc.TimeOfDayCustomTags.TimeOfDayTags</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+</taglib>
